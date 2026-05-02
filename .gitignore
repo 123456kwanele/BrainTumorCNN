@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pth
+
+# VS Code
+.vscode/
+
+# Mac/Linux junk
+.DS_Store
