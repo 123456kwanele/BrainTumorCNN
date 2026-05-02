@@ -41,6 +41,10 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
+##Place downloaded dataset inside:
+
+data/raw/
+
 ## Authors
 - Kwanele Mazibuko
 - Salimata Mbaye
