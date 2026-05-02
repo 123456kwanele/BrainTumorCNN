@@ -41,7 +41,7 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-##Place downloaded dataset inside:
+## Place downloaded dataset inside:
 
 data/raw/
 
